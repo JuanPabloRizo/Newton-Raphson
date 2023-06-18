@@ -1,0 +1,51 @@
+@startuml
+class Funcion 
+{
+    -x: float 
+    -y:float 
+    -x2:float 
+    -y2:float 
+    -xo:float 
+    -yo:float 
+    -xn:float 
+    -yn:float 
+    -xexp:float 
+    -yexp:float 
+    -fx:float 
+    -fy:float 
+    -fx2:float 
+    -fx2:float 
+    -fy2:float 
+    -fxn:float 
+    -fyn:float 
+    -cont:float 
+    -fcont:float 
+    -fxexp:float 
+    -fyexp:float 
+
+    -ex:float 
+    -ey:float 
+    -inx:float 
+    -iny:float 
+    -xb:float 
+    -yb:float 
+    -fxb:float 
+    -fyb:float 
+    -xd:float 
+    -yd:float 
+    -fxd:float 
+    -fyd:float 
+    -res[2]:float 
+    -int b:float 
+
+    +Funcion()
+    +ingresar(): void
+    +derivar(): void
+    +intervalo(): void
+    +evaluar(): void
+    +evaluacion(): void
+    +matriz(): void
+    +segundointento(): void
+}
+@enduml
+  

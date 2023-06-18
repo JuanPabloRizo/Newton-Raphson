@@ -1,0 +1,3 @@
+metodo.exe : metodo.cpp
+@echo Compilando codigo fuente.....
+g++ -o metodo metodo.cpp -I include -std=c++11
