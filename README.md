@@ -2,7 +2,7 @@
 Metodo Numerico a traves del metodo Newton Raphson para sistemas de ecuaciones no lineales
 
 ## Características
-- Permite ingresar datos en forma de subtablas de valores X e Y.
+- Permite ingresar datos de valores X y Y.
 - Realiza interpolaciones polinómicas utilizando el método de Newton-Raphson.
 - Es uns sistema bastante claro que te permite ingresar los datos que quieras.
 - Te permite ingresar el numero de iteraciones que desees.
